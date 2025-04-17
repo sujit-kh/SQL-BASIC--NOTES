@@ -1,0 +1,4 @@
+1. Q: What is SQL? Why is it important?
+SQL (Structured Query Language) is used to interact with relational databases. It allows
+users to retrieve, insert, update, and delete data, making it essential for database
+management in any application.
